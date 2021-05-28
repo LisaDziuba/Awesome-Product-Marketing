@@ -20,3 +20,7 @@
 * [Slack Community For Product Managers](https://productschool.com/slack-community/)
 
 
+## Useful for interview prep
+
+* [ ] [How to Crack the Product Manager Interview by Gayle McDowell](https://www.youtube.com/watch?v=VzB2_mhUevM&ab_channel=ProductSchool)
+
