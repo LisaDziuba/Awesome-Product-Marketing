@@ -13,6 +13,14 @@
   * Will PMM interviews have case interview questions (hint: yes!)?
   * How should I prepare for PMM interviews?
 
+[What is product marketing?](https://productmarketingalliance.com/what-is-product-marketing/) by Product Marketing Alliance, covering:
+  * The Product Marketing Framework
+  * What does product marketing do?
+  * What is the role of product marketing?
+  * Does the perfect product marketer exist?
+  * Why is product marketing so important?
+  * How do you get into product marketing?
+
 
 ## Useful Slack communities
 
