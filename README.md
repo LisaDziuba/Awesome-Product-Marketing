@@ -21,6 +21,8 @@
   * Why is product marketing so important?
   * How do you get into product marketing?
 
+[Product Marketing Metrics and How to Measure Your Business Impact](https://www.youtube.com/watch?v=TvO3-KFVa9M) by Diana, from Segment
+
 
 ## Useful Slack communities
 
