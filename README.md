@@ -23,6 +23,8 @@
 
 [Product Marketing Metrics and How to Measure Your Business Impact](https://www.youtube.com/watch?v=TvO3-KFVa9M) by Diana, from Segment
 
+[Intro to Product Marketing](https://www.slideshare.net/TaniaClarke3/intro-to-product-marketing-tania-clarke) by Tania Clarke
+
 
 ## Useful Slack communities
 
