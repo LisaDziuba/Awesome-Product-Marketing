@@ -25,6 +25,8 @@
 
 [Intro to Product Marketing](https://www.slideshare.net/TaniaClarke3/intro-to-product-marketing-tania-clarke) by Tania Clarke
 
+[Advanced Product Marketing](https://www.linkedin.com/learning/advanced-product-marketing/next-level-product-marketing) by Jonathan Chang
+
 
 ## Useful Slack communities
 
