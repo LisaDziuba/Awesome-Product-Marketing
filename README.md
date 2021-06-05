@@ -37,4 +37,5 @@
 ## Useful for interview prep
 
 * [ ] [How to Crack the Product Manager Interview by Gayle McDowell](https://www.youtube.com/watch?v=VzB2_mhUevM&ab_channel=ProductSchool)
+* [ ] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://www.youtube.com/watch?v=6nODOtyHSBc&t=405s) by John Marty
 
