@@ -39,3 +39,8 @@
 * [ ] [How to Crack the Product Manager Interview by Gayle McDowell](https://www.youtube.com/watch?v=VzB2_mhUevM&ab_channel=ProductSchool)
 * [ ] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://www.youtube.com/watch?v=6nODOtyHSBc&t=405s) by John Marty
 
+## Where to find evens
+
+* [Product Marketing Alliance Linkedin Events](https://www.linkedin.com/school/product-marketing-alliance/events/)
+* [Product School Linkedin Events](https://www.linkedin.com/school/product-school/events/)
+
