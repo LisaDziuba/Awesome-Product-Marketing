@@ -39,6 +39,8 @@
 * [ ] [How to Crack the Product Manager Interview by Gayle McDowell](https://www.youtube.com/watch?v=VzB2_mhUevM&ab_channel=ProductSchool)
 * [ ] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://www.youtube.com/watch?v=6nODOtyHSBc&t=405s) by John Marty
 * [ ] [How to make a great Product Manager Resume](https://www.youtube.com/watch?v=L1Bbl8QBd6I) by Liam Bolling
+* [ ] [Marketing topic on Blind community](https://www.teamblind.com/topics/Job-Groups/Marketing)
+* [ ] [Product Managment topic on Blind community](https://www.teamblind.com/topics/Job-Groups/Product-Management)
 
 ## Where to find evens
 
