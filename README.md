@@ -42,6 +42,10 @@
 * [ ] [Marketing topic on Blind community](https://www.teamblind.com/topics/Job-Groups/Marketing)
 * [ ] [Product Managment topic on Blind community](https://www.teamblind.com/topics/Job-Groups/Product-Management)
 
+### Resume tips 
+* [ ] [Resume Advice from Product Manager at Microsoft](https://www.youtube.com/playlist?list=PLcMv0LrPMqFWWdj8jEm_pmwQUKrnuAnxD)
+* [ ] [How to make a great Product Manager Resume](https://www.youtube.com/watch?v=L1Bbl8QBd6I) by Liam Bolling
+
 ## Where to find evens
 
 * [Product Marketing Alliance Linkedin Events](https://www.linkedin.com/school/product-marketing-alliance/events/)
