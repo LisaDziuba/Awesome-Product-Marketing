@@ -1,5 +1,10 @@
 # ProductMarketing
 
+## Market sizing
+
+* [How to Calculate Market Size Using TAM, SAM, and SOM](https://www.thepowermba.com/en/entrepreneurship/tam-sam-som)
+
+
 ## Best Product Marketing Resources
 
 [Product Marketing Alliance](https://productmarketingalliance.com/)
