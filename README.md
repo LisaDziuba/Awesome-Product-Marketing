@@ -56,3 +56,8 @@
 * [Product Marketing Alliance Linkedin Events](https://www.linkedin.com/school/product-marketing-alliance/events/)
 * [Product School Linkedin Events](https://www.linkedin.com/school/product-school/events/)
 
+
+## For PMM juniors 
+
+* [IBM Accelerate: Talent Identification Program](https://www.ibm.com/employment/accelerate/)
+
