@@ -1,4 +1,4 @@
-# ProductMarketing
+# Awesome Product Marketing
 
 ## Market sizing
 
