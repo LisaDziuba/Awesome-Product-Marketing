@@ -33,10 +33,11 @@
 [Advanced Product Marketing](https://www.linkedin.com/learning/advanced-product-marketing/next-level-product-marketing) by Jonathan Chang
 
 
-## Useful Slack communities
+## Useful communities
 
 * [Product Marketing community](https://productmarketingalliance.com/join-slack/) by Product Marketing Alliance.
 * [Slack Community For Product Managers](https://productschool.com/slack-community/)
+* [The Product Folks](https://www.theproductfolks.com/)
 
 
 ## Useful for interview prep
