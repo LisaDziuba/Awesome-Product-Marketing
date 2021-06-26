@@ -35,9 +35,10 @@
 
 ## Useful communities
 
-* [Product Marketing community](https://productmarketingalliance.com/join-slack/) by Product Marketing Alliance.
-* [Slack Community For Product Managers](https://productschool.com/slack-community/)
-* [The Product Folks](https://www.theproductfolks.com/)
+* [Slack Product Marketing community](https://productmarketingalliance.com/join-slack/) by Product Marketing Alliance.
+* [Slack Community For Product Managers](https://productschool.com/slack-community/) by Product School.
+* [The Product Folks](https://www.theproductfolks.com/) community
+* [Mind the Product Slack](https://www.mindtheproduct.com/product-management-slack-community/)
 
 
 ## Useful for interview prep
