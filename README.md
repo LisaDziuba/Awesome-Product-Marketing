@@ -1,7 +1,11 @@
 # Awesome Product Marketing
 
+Let's start with hard skills.
+
 
 ## User Research
+
+### Research methodology
 
 
 ### What is user empathy?
@@ -15,9 +19,17 @@
 
  ### Competetive Intelligence
 
+------
+[ ] primary and secondary market research
+[ ] 
+
+------
 
 
 ## Storytelling
+
+Develop internal and external messaging that translates the technical capabilities of the product into business value for target users, partners, and team.
+
 
 ### Positioning
 
@@ -25,6 +37,9 @@
 
 
 ## GTM
+
+Create and execute integrated marketing campaigns and product launch plans to drive awareness, engagement, and adoption among target users.
+
 
 ### GTM stategy
 
@@ -34,7 +49,34 @@
 ## PMM analitics
 
 
+### Being hypothesis driven
+
+
+Soft skills
+
+##  Cross-functional collaboration
+
+
+##  Being voice of the user
+
+[ ] roadmap, to shape product strategy
+[ ] enablement,
+[ ] education opportunities that empower other team members
+[ ] develop the go-to-market vision for product
+[ ] develop the product vision
+
+
+##  Being voice of the product
+
+[ ] Present at hackathons, conferences and other events with focus on audience
+[ ] Speak and present both internally and externally to promote the benefits of our product
+[ ] Own marketing communications, events strategy, and oversee marketing programs to grow community
+
+
 ## Growing product adoption
+
+[ ] Propose, test, and implement improvements to our marketing efforts to increase developer acquisition and engagement
+
 
 ## Best Product Marketing Resources
 
