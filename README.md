@@ -1,9 +1,40 @@
 # Awesome Product Marketing
 
-## Market sizing
 
+## User Research
+
+
+### What is user empathy?
+
+
+## Market research
+ 
+ ### Market sizing
 * [How to Calculate Market Size Using TAM, SAM, and SOM](https://www.thepowermba.com/en/entrepreneurship/tam-sam-som)
 
+
+ ### Competetive Intelligence
+
+
+
+## Storytelling
+
+### Positioning
+
+### Messaging
+
+
+## GTM
+
+### GTM stategy
+
+### GTM execution
+
+
+## PMM analitics
+
+
+## Growing product adoption
 
 ## Best Product Marketing Resources
 
@@ -33,12 +64,18 @@
 [Advanced Product Marketing](https://www.linkedin.com/learning/advanced-product-marketing/next-level-product-marketing) by Jonathan Chang
 
 
-## Useful communities
+## Useful PMM communities
 
 * [Slack Product Marketing community](https://productmarketingalliance.com/join-slack/) by Product Marketing Alliance.
 * [Slack Community For Product Managers](https://productschool.com/slack-community/) by Product School.
 * [The Product Folks](https://www.theproductfolks.com/) community
 * [Mind the Product Slack](https://www.mindtheproduct.com/product-management-slack-community/)
+
+
+ ### Where to find evens
+
+* [Product Marketing Alliance Linkedin Events](https://www.linkedin.com/school/product-marketing-alliance/events/)
+* [Product School Linkedin Events](https://www.linkedin.com/school/product-school/events/)
 
 
 ## Useful for interview prep
@@ -53,10 +90,6 @@
 * [ ] [Resume Advice from Product Manager at Microsoft](https://www.youtube.com/playlist?list=PLcMv0LrPMqFWWdj8jEm_pmwQUKrnuAnxD)
 * [ ] [How to make a great Product Manager Resume](https://www.youtube.com/watch?v=L1Bbl8QBd6I) by Liam Bolling
 
-## Where to find evens
-
-* [Product Marketing Alliance Linkedin Events](https://www.linkedin.com/school/product-marketing-alliance/events/)
-* [Product School Linkedin Events](https://www.linkedin.com/school/product-school/events/)
 
 
 ## For PMM juniors 
