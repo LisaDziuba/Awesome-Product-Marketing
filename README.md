@@ -7,6 +7,8 @@ Let's start with hard skills.
 
 ### Research methodology
 
+### Persona
+[Ideal Customer Profile (ICP): How To Create A Comprehensive Customer Profile](https://www.mykpono.com/ideal-customer-profile-icp-how-to-create-a-comprehensive-customer-profile/)
 
 ### What is user empathy?
 
