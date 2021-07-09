@@ -10,6 +10,9 @@ Let's start with hard skills.
 ### Persona
 [Ideal Customer Profile (ICP): How To Create A Comprehensive Customer Profile](https://www.mykpono.com/ideal-customer-profile-icp-how-to-create-a-comprehensive-customer-profile/)
 
+### UX Persona
+### Marketing / Buyer Persona
+
 ### What is user empathy?
 
 
