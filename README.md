@@ -123,6 +123,7 @@ Soft skills
 
 * [Product Marketing Alliance Linkedin Events](https://www.linkedin.com/school/product-marketing-alliance/events/)
 * [Product School Linkedin Events](https://www.linkedin.com/school/product-school/events/)
+* Events channels on Slack groups.
 
 
 ## Useful for interview prep
