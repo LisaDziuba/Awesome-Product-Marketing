@@ -5,6 +5,8 @@ Let's start with hard skills.
 
 ## User Research
 
+* [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
+
 ### Research methodology
 
 ### Persona
