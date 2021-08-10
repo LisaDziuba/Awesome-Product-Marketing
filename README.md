@@ -12,6 +12,7 @@ Let's start with hard skills.
 ### Persona
 [Ideal Customer Profile (ICP): How To Create A Comprehensive Customer Profile](https://www.mykpono.com/ideal-customer-profile-icp-how-to-create-a-comprehensive-customer-profile/)
 * [How to create your B2B ideal customer profile (ICP) [template]](https://www.kalungi.com/blog/how-to-define-b2b-ideal-customer-profile-template-icp)
+* * [HOW TO IDENTIFY THE IDEAL CUSTOMER PROFILE FOR B2B?](https://out2bound.com/blog/how-to-identify-the-ideal-customer-profile/)
 
 ### UX Persona
 ### Marketing / Buyer Persona
