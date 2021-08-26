@@ -28,6 +28,8 @@ Let's start with hard skills.
 
  ### Competetive Intelligence
 
+* [5 Competitive Analysis Frameworks Explained with Visuals](https://blog.alexa.com/competitive-analysis-frameworks/)
+
 ------
 [ ] primary and secondary market research
 [ ] 
